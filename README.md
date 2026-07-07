@@ -2,7 +2,7 @@
 ##programs 
 -hello.c
 age_calculator.c
-##About
+## About
 I am learning C programming from scratch.
 ## Topics Covered
 -Variables
