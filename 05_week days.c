@@ -7,25 +7,25 @@ printf("Enter Your number 1-7\n");
 scanf("%d",&day);
 switch(day){
     case 1:
-    printf("Monday");
+    printf("Sunday");
     break;
     case 2:
-    printf("Tuesday");
+    printf("Monday");
     break;
     case 3:
-    printf("Wednesday");
+    printf("Tuesday");
     break;
     case 4:
-    printf("Thursday");
+    printf("Wednesday");
     break;
     case 5:
-    printf("Friday");
+    printf("Thursday");
     break;
     case 6:
-    printf("Saturday");
+    printf("Friday");
     break;
     case 7:
-    printf("Sunday");
+    printf("Saturday");
     break;
     default:
     printf("Invalid choice");
