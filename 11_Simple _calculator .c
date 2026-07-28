@@ -6,12 +6,10 @@ char operation;
 double n1,n2 ;
   
 printf("enter the operator +,-,*,/");
-  
-scanf(" %c",&operation);
+  scanf(" %c",&operation);
   
 printf("Enter two numbers");
-  
-scanf("%lf %lf",&n1,&n2);
+  scanf("%lf %lf",&n1,&n2);
 switch(operation){
     case '+':
     printf("%.1lf + %.1lf = %.1lf",n1,n2,n1+n2);
