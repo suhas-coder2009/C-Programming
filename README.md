@@ -15,6 +15,7 @@ I am learning C programming from scratch.
 -Input/Output
 -0perators
 -if-else
--switch statement
+-Switch statement
 -Loops
-
+-Switch and Continue Statement
+-Arrays
