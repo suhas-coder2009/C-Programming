@@ -17,5 +17,5 @@ I am learning C programming from scratch.
 -if-else
 -Switch statement
 -Loops
--Switch and Continue Statement
+-Break and Continue Statement
 -Arrays
