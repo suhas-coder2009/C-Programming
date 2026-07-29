@@ -11,7 +11,7 @@ scanf("%d",&n);
 scanf("%d",&limit);
  
   for(i=0;i<=limit; i++){
- printf("%d x %d =%d\n",n,i,i*n);
+ printf("%d x %d =%d\n",n,i,n*i);
 }
 
     return 0;
