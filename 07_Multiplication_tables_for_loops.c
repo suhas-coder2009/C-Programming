@@ -1,11 +1,13 @@
 #include <stdio.h>
 
 int main(){
-int n;    
+int n,limit;    
 int i;
 printf("ENTER YOUR NUMBER");
 scanf("%d",&n);
-for(i=0;i<=10; i++){
+ printf("Enter your limit:");
+scanf("%d",&limit);
+  for(i=0;i<=limit; i++){
  printf("%dx%d=%d\n",n,i,i*n);
 }
 
