@@ -18,4 +18,4 @@ I am learning C programming from scratch.
 -Switch statement
 -Loops
 -Break and Continue Statement
--Arrays
+-functions
