@@ -19,3 +19,4 @@ I am learning C programming from scratch.
 -Loops
 -Break and Continue Statement
 -functions
+-Arrays
